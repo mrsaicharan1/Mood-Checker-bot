@@ -16,7 +16,6 @@
 - how you doing
 - what's up
 
-
 ## intent:goodbye
 - cu
 - good by
@@ -46,6 +45,7 @@
 - I don't think so
 - don't like that
 - no way
+
 
 ## intent:mood_great
 - perfect
@@ -79,3 +79,4 @@
 - extremly sad
 - so saad
 - so sad
+
